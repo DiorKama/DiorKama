@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Les Stats GitHub de Dior](https://github-readme-stats.vercel.app/api?username=DiorKama&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiorKama)](https://github.com/DiorKama/github-readme-stats)
+
